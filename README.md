@@ -14,4 +14,4 @@
 
 Tarea Git. Manual de instrucciones de los distintos comandos, cómo usarlos, y subida de archivos a repositorio remoto.
 
-[Publicación]
+[Publicación]https://github.com/24-25-LMSGI/Marco-Tarea1
